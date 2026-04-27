@@ -1,8 +1,13 @@
 {
   "name": "indonesia-datetime",
-  "version": "1.0.0",
-  "description": "Library untuk mempermudah setup datetime dengan timezpne Asia/Jakarta",
+  "version": "1.0.1",
+  "description": "Library untuk mempermudah setup datetime dengan timezone Asia/Jakarta",
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
