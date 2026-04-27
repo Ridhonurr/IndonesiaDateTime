@@ -1,0 +1,19 @@
+{
+  "name": "indonesia-datetime",
+  "version": "1.0.0",
+  "description": "Library untuk mempermudah setup datetime dengan timezpne Asia/Jakarta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ridhonurr/IndonesiaDateTime.git"
+  },
+  "author": "Ridho Laboratorium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ridhonurr/IndonesiaDateTime/issues"
+  },
+  "homepage": "https://github.com/Ridhonurr/IndonesiaDateTime#readme"
+}
